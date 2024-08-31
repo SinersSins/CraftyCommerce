@@ -1,0 +1,3 @@
+#It'll ignore the following files
+
+node_modules/
